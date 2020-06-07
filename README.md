@@ -12,6 +12,7 @@ Tecnologias utilizadas:
 5. NodeJs
 6. Nodemon
 7. SQLlite
+8. Integração com API do IBGE para popular campos no formulário.
 
 - Meu primeiro projeto full stack realizado e colocado aqui no GitHub. 
 - Segue demonstração da aplicação: 
