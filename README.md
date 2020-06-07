@@ -16,4 +16,4 @@ Tecnologias utilizadas:
 - Meu primeiro projeto full stack realizado e colocado aqui no GitHub. 
 - Segue demonstração da aplicação: 
 
-[Link](url) and ![Image](src)
+![Image](https://github.com/JessicaRamoslc/Next-Level-Week/blob/master/public/ecoleta.gif)
